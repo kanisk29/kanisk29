@@ -12,7 +12,7 @@
 ---
 
 ### What I'm up to
-- 🔭 Latest Finished Project -> <a href="https://toxicity-detector-by-kanisk.netlify.app">Toxicity Detection System</a>  
+- 🔭 Latest Finished Project -> <a href="https://toxicity-detector-by-kanisk.netlify.app" target = "_blank">Toxicity Detection System</a>  
 - 🌱 Learning Agentic AI  
 - 💬 Ask me about AI and Machine Learning  
 
