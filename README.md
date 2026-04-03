@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanisk Dasgupta</h1>
+ko<h1 align="center">Hi 👋, I'm Kanisk Dasgupta</h1>
 <h3 align="center">AI and Machine Learning Enthusiast focused on building scalable real world systems</h3>
 
 <p align="center">
@@ -38,5 +38,5 @@
 
 ### Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanisk29" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanisk29&cache_bust=1" />
 </p>
