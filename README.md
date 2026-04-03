@@ -1,4 +1,4 @@
-ko<h1 align="center">Hi 👋, I'm Kanisk Dasgupta</h1>
+<h1 align="center">Hi 👋, I'm Kanisk Dasgupta</h1>
 <h3 align="center">AI and Machine Learning Enthusiast focused on building scalable real world systems</h3>
 
 <p align="center">
