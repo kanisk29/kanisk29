@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanisk Dasgupta</h1>
-<h3 align="center">AI and Machine Learning Enthusiast focused on building scalable real world systems</h3>
+<h3 align="center">AI and Machine Learning Enthusiast focused on building scalable intelligent real world systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanisk29&label=Profile%20Views&color=7f0eb4&style=flat-square" alt="kanisk29" />
