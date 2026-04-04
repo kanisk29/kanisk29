@@ -36,7 +36,3 @@
 
 ---
 
-### Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanisk29&cache_bust=1" />
-</p>
