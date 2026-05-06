@@ -12,8 +12,8 @@
 ---
 
 ### What I'm up to
-- 🔭 Latest Finished Project -> <a href="https://toxicity-detector-by-kanisk.netlify.app" target = "_blank">Toxicity Detection System</a>  
-- 🌱 Learning Agentic AI  
+- 🔭 Latest Finished Project -> <a href="https://clauser-ai-by-kanisk.streamlit.app/" target = "_blank">AI Contract Risk Analyzer</a>  
+- 🌱 Currently Learning Agentic AI  
 - 💬 Ask me about AI and Machine Learning  
 
 ---
