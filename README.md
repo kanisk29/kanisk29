@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kanisk29&label=Profile%20Views&color=7f0eb4&style=flat-square" alt="kanisk29" />
 </p>
-
 <p align="center">
   <a href="mailto:kaniskdasgupta@gmail.com">Email</a>
 </p>
